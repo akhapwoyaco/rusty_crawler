@@ -1,0 +1,1 @@
+cargo:rustc-env=MIME_TYPES_GENERATED_PATH=C:\Users\Administrator\OneDrive\2024\August\development\rusty_crawler\rusty_crawler\target\debug\build\mime_guess-3db4cc51c7667d5f\out\mime_types_generated.rs

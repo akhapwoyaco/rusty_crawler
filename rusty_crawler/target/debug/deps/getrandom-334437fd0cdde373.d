@@ -1,0 +1,10 @@
+C:\Users\Administrator\OneDrive\2024\August\development\rusty_crawler\rusty_crawler\target\debug\deps\libgetrandom-334437fd0cdde373.rmeta: C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src/lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\error.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\util.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\windows.rs
+
+C:\Users\Administrator\OneDrive\2024\August\development\rusty_crawler\rusty_crawler\target\debug\deps\libgetrandom-334437fd0cdde373.rlib: C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src/lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\error.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\util.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\windows.rs
+
+C:\Users\Administrator\OneDrive\2024\August\development\rusty_crawler\rusty_crawler\target\debug\deps\getrandom-334437fd0cdde373.d: C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src/lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\error.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\util.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\windows.rs
+
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src/lib.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\error.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\util.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\windows.rs:

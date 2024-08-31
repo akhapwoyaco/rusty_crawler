@@ -1,0 +1,102 @@
+use reqwest;
+use scraper;
+//use csv;
+
+//
+// 
+//struct Fullprofessors {
+  //  name: Option<String>,
+   // image: Option<String>,
+    //position: Option<String>,
+    //profile: Option<String>,
+    //highest_qualification: String,
+    //interest_areas: String,
+    //view_profile: String
+//}
+//
+
+fn main() {
+    // vec to store data
+    //let mut list_full_professors: Vec<Fullprofessors> = Vec::new();
+
+    // request sends HTTP GET to passed url parameter
+    let response = reqwest::blocking::get("https://staff.tukenya.ac.ke/?r=portal/page/professors");
+    // get the html content
+    let html_content = response.unwrap().text().unwrap();
+    // parse content
+    let documen_t = scraper::Html::parse_document(&html_content);
+    // all spans
+    let html_div_content = scraper::Selector::parse("#content div").unwrap();
+    //
+    //let html_div_span12 = scraper::Selector::parse("div.span12").unwrap();
+    //let html_div_span2 = scraper::Selector::parse("div.span2").unwrap();
+    //let html_div_span8 = scraper::Selector::parse("div.span8").unwrap();
+    //
+    let div_s = documen_t.select(&html_div_content).collect::<Vec<_>>();
+    let html_div_span12 = scraper::Selector::parse("div.span12").unwrap();
+    let html_div_span2 = scraper::Selector::parse("div.span2").unwrap();
+    let html_div_span8 = scraper::Selector::parse("div.span8").unwrap();
+    println!("{:?}", div_s);
+    //
+    let _list = div_s 
+    //let _ = 
+    // div_s
+        .chunks_exact(3) // third div is spacing
+        .map(|each_div| {
+
+            println!("{:?}", each_div);
+            // name
+            let name = each_div[0]
+                .select(&html_div_span12)
+                .next()
+                .and_then(|a| a.value().attr("href"))
+                .map(str::to_owned);
+            // image
+            let image = each_div[0]
+                .select(&html_div_span2)
+                .next()
+                .and_then(|img| img.value().attr("src"))
+                .map(str::to_owned);
+            // position
+            let profile = each_div[0]
+                .select(&html_div_span8)
+                .next()
+                .and_then(|b| Some(b.text().collect::<String>()));
+//                .map(str::to_owned);
+                //.map(|b| b.text().collect::<String>()); 
+            
+            [name,
+            image,
+            profile]
+            // instantiate new profile
+            //let professor = Fullprofessors {
+             //   name,
+               // image,
+               // profile,
+            //};
+            //list_full_professors.push(professor);
+                
+        })
+        .collect::<Vec<_>>();
+    println!("{:#?}",_list);
+    // create csv output
+    //let path = std::path::Path::new("full_professors.csv"); 
+    //let mut writer = csv::Writer::from_path(path).unwrap();
+    
+    //writer
+      //  .write_record(&["name", "image", "profile"])
+        //.unwrap();
+
+    // populate output file
+    //for prof in list_full_professors {
+      //  let name = prof.name.unwrap();
+       // let image = prof.image.unwrap();
+       // let profile = prof.profile.unwrap();
+        //
+       // writer.write_record(&[name, image, profile]).unwrap();
+
+    //}
+
+    //writer.flush().unwrap();
+
+}

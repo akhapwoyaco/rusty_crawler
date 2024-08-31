@@ -1,0 +1,10 @@
+C:\Users\Administrator\OneDrive\2024\August\development\rusty_crawler\rusty_crawler\target\debug\deps\liblog-8da3bbb79f6e2db4.rmeta: C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.22\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.22\src\macros.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.22\src\serde.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.22\src\__private_api.rs
+
+C:\Users\Administrator\OneDrive\2024\August\development\rusty_crawler\rusty_crawler\target\debug\deps\liblog-8da3bbb79f6e2db4.rlib: C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.22\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.22\src\macros.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.22\src\serde.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.22\src\__private_api.rs
+
+C:\Users\Administrator\OneDrive\2024\August\development\rusty_crawler\rusty_crawler\target\debug\deps\log-8da3bbb79f6e2db4.d: C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.22\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.22\src\macros.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.22\src\serde.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.22\src\__private_api.rs
+
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.22\src\lib.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.22\src\macros.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.22\src\serde.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.22\src\__private_api.rs:

@@ -1,0 +1,10 @@
+C:\Users\Administrator\OneDrive\2024\August\development\rusty_crawler\rusty_crawler\target\debug\deps\libautocfg-dd104a6f44858c68.rmeta: C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\autocfg-1.3.0\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\autocfg-1.3.0\src\error.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\autocfg-1.3.0\src\rustc.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\autocfg-1.3.0\src\version.rs
+
+C:\Users\Administrator\OneDrive\2024\August\development\rusty_crawler\rusty_crawler\target\debug\deps\libautocfg-dd104a6f44858c68.rlib: C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\autocfg-1.3.0\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\autocfg-1.3.0\src\error.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\autocfg-1.3.0\src\rustc.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\autocfg-1.3.0\src\version.rs
+
+C:\Users\Administrator\OneDrive\2024\August\development\rusty_crawler\rusty_crawler\target\debug\deps\autocfg-dd104a6f44858c68.d: C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\autocfg-1.3.0\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\autocfg-1.3.0\src\error.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\autocfg-1.3.0\src\rustc.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\autocfg-1.3.0\src\version.rs
+
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\autocfg-1.3.0\src\lib.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\autocfg-1.3.0\src\error.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\autocfg-1.3.0\src\rustc.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\autocfg-1.3.0\src\version.rs:

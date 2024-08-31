@@ -1,0 +1,1 @@
+C:\Users\Administrator\OneDrive\2024\August\development\rusty_crawler\rusty_crawler\target\debug\rusty_crawler.exe: C:\Users\Administrator\OneDrive\2024\August\development\rusty_crawler\rusty_crawler\src\main.rs
