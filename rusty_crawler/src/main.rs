@@ -62,7 +62,7 @@ fn main() {
     }
 
     // create csv output
-    let path = std::path::Path::new("full_professors.csv"); 
+    let path = std::path::Path::new("full_staff_link.csv"); 
     let mut writer = csv::Writer::from_path(path).unwrap();
     
     writer
